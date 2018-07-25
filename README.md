@@ -1,25 +1,25 @@
-## Matplotlib ile Görselleştirme 
+## Matplotlib ile GÃ¶rselleÅŸtirme 
 
 
-Iris çiçeğine ait bilgilerin bulunduğu [Iris Dataseti](https://www.kaggle.com/kamrankausar/iris-data)  üzerinde Matplotlib kütüphenesi kullanılarak görselleştirmelerin yapıldığı basit bir örnek.
+Iris Ã§iÃ§eÄŸine ait bilgilerin bulunduÄŸu [Iris Dataseti](https://www.kaggle.com/kamrankausar/iris-data)  Ã¼zerinde Matplotlib kÃ¼tÃ¼phenesi kullanÄ±larak gÃ¶rselleÅŸtirmelerin yapÄ±ldÄ±ÄŸÄ± basit bir Ã¶rnek.
 
 
-###### Örneğin içeriği
+###### Ã–rneÄŸin iÃ§eriÄŸi
 
-* Datasetin okunması 
-* Dataset içerisindeki bir sütunda kaç farklı değer(Iris türünün) olduğunun öğrenilmesi
-* Dataset içerisindeki sütun isimlerinin öğrenilmesi
-* Dataset hakkında genel bilgilerin öğrenilmesi
-* Her türün ayrı bir dataframe olarak ayrıştırılması
-* Türleri karşılaştırmak için her tür için oluşturduğumuz dataframeler hakkında bilgi edinme.
-* Matplotlib kütüphamesi kullanılarak Line Plot ile  görselleştirme 
-* Matplotlib kütüphamesi kullanılarak Scatter Plot ile  görselleştirme
-* Matplotlib kütüphamesi kullanılarak Histogram ile  görselleştirme
-* Matplotlib kütüphamesi kullanılarak Bar Plot ile  görselleştirme
-* Matplotlib kütüphamesi kullanılarak Subplots ile  görselleştirme
+* Datasetin okunmasÄ± 
+* Dataset iÃ§erisindeki bir sÃ¼tunda kaÃ§ farklÄ± deÄŸer(Iris tÃ¼rÃ¼nÃ¼n) olduÄŸunun Ã¶ÄŸrenilmesi
+* Dataset iÃ§erisindeki sÃ¼tun isimlerinin Ã¶ÄŸrenilmesi
+* Dataset hakkÄ±nda genel bilgilerin Ã¶ÄŸrenilmesi
+* Her tÃ¼rÃ¼n ayrÄ± bir dataframe olarak ayrÄ±ÅŸtÄ±rÄ±lmasÄ±
+* TÃ¼rleri karÅŸÄ±laÅŸtÄ±rmak iÃ§in her tÃ¼r iÃ§in oluÅŸturduÄŸumuz dataframeler hakkÄ±nda bilgi edinme.
+* Matplotlib kÃ¼tÃ¼phamesi kullanÄ±larak Line Plot ile  gÃ¶rselleÅŸtirme 
+* Matplotlib kÃ¼tÃ¼phamesi kullanÄ±larak Scatter Plot ile  gÃ¶rselleÅŸtirme
+* Matplotlib kÃ¼tÃ¼phamesi kullanÄ±larak Histogram ile  gÃ¶rselleÅŸtirme
+* Matplotlib kÃ¼tÃ¼phamesi kullanÄ±larak Bar Plot ile  gÃ¶rselleÅŸtirme
+* Matplotlib kÃ¼tÃ¼phamesi kullanÄ±larak Subplots ile  gÃ¶rselleÅŸtirme
 
-###### Yararlanılan Kaynaklar 
-* [Udemy - Python Sıfırdan Uzmanlığa Programlama(Kaan Can Yılmaz](https://www.udemy.com/python-sfrdan-uzmanlga-programlama-1/learn/v4/content)
+###### YararlanÄ±lan Kaynaklar 
+* [Udemy - Python SÄ±fÄ±rdan UzmanlÄ±ÄŸa Programlama(Kaan Can YÄ±lmaz](https://www.udemy.com/python-sfrdan-uzmanlga-programlama-1/learn/v4/overview)
 * [Iris Dataseti](https://www.kaggle.com/kamrankausar/iris-data) 
 
-###### Örneğe dair ekran alıntıları:
+###### Ã–rneÄŸe dair ekran alÄ±ntÄ±larÄ±:
